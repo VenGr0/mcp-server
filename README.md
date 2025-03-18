@@ -19,7 +19,7 @@ MCP (Multi-Functional Command Processor) сервер предоставляет
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/mcp-server.git
+   git clone https://github.com/VenGr0/mcp-server.git
    cd mcp-server
    ```
 
